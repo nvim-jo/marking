@@ -9,7 +9,7 @@
 
 
 ## ⇁  Info
-Fork from [marking](https://github.com/ThePrimeagen/marking)
+Fork from [harpoon](https://github.com/ThePrimeagen/harpoon)
 
 
 ## ⇁ The Problems:
@@ -31,7 +31,7 @@ to go to the files you want.
 * install using your favorite plugin manager (`vim-plug` in this example)
 ```vim
 Plug 'nvim-lua/plenary.nvim' " don't forget to add this one if you don't have it yet!
-Plug 'ThePrimeagen/marking'
+Plug 'nvim-jo/marking'
 ```
 
 ## ⇁ Marking
